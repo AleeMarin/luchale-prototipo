@@ -1,5 +1,6 @@
 node_modules/**/*
 .expo/*
+.expo-shared/*
 npm-debug.*
 *.jks
 *.p8
@@ -8,6 +9,12 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
+web-report/
+yarn-error.log
+.idea/
+
+# firebase
+FireBase.js
 
 # macOS
 .DS_Store
